@@ -1,2 +1,2 @@
 # testrepo
-IBM|Coursera GitHub-Getting Started
+IBM/Coursera GitHub-Getting Started
